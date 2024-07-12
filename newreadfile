@@ -1,0 +1,11 @@
+# Clone the empty repository
+git clone https://github.com/your-username/labnew.git
+cd labnew
+
+# Initialize the repository with a README file
+echo "# labnew" > README.md
+git add README.md
+git commit -m "Initial commit"
+
+# Push the initial commit to GitHub
+git push origin master
