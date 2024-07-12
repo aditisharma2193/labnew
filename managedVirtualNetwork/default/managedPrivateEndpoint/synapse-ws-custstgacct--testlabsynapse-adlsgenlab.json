@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--testlabsynapse-adlsgenlab",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/ce0232c1-025f-4029-b43e-099507a45046/resourceGroups/Aditi_lab/providers/Microsoft.Storage/storageAccounts/adlsgenlab",
+		"groupId": "dfs"
+	}
+}

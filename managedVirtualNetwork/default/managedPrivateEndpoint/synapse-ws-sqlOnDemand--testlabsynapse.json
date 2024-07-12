@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--testlabsynapse",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/ce0232c1-025f-4029-b43e-099507a45046/resourceGroups/Aditi_lab/providers/Microsoft.Synapse/workspaces/testlabsynapse",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"testlabsynapse-ondemand.58cb32a8-946e-43c3-98d5-1cb1ab56c914.sql.azuresynapse.net"
+		]
+	}
+}
